@@ -6,7 +6,7 @@
 
 🔷 و درقسمت ایدی ادمین ایدی خودتون رو بذارید 
 
-⚪ دریافت ایدی شما : @YourlDbot
+⚪ دریافت ایدی شما : @userinfobot
 
 # install
 ```
@@ -20,10 +20,8 @@ python up*
 ```
 🔺 در اخر هم ربات رو استارت کنید ❤💪
 
-[-🙍DeveLoper](https://telegram.me/MosyDev)
+[-💻DeveLoper](https://telegram.me/mr_classical)
 
-[-👤creator](https://telegram.me/MutePuker)
+[-👤creator](https://telegram.me/mr_classical)
 
-[-💬RePoRtS](https://telegram.me/MutePukerBot)
-
-[-🔊channel](https://telegram.me/MuteTeam)
+[-💬RePoRtS](https://telegram.me/mr_classical_bot)
